@@ -14,4 +14,5 @@ public class MainActivity extends AppCompatActivity {
         double longtitute =-122.4233;
         String forcast ="https://api.darksky.net/forecast/"+apiKey+"/"+latitute+","+longtitute;
     }
+    public void onclick(){}
 }
